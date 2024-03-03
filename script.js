@@ -28,8 +28,6 @@ function checkUser () {
 }
 
 
-
-
 // Only allowed to change code above
 
 checkUser()
